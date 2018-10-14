@@ -11,6 +11,9 @@ namespace GoogleApis
         static void Main(string[] args)
         {
             FetchingUsers.Run();
+
+            Console.WriteLine("Press any key to continue...");
+            Console.ReadKey();
         }
     }
 }
