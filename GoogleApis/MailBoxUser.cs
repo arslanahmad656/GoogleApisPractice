@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace GoogleApis
 {
+    /// <summary>
+    /// Model to represent the email information extracted from the raw G-Suite User
+    /// </summary>
     class MailBoxUser
     {
         public string PrimaryEmail { get; set; }

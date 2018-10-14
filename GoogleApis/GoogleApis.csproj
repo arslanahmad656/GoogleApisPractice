@@ -77,7 +77,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="sample output.txt" />
+    <Content Include="Further Readings.txt" />
+    <Content Include="sample_PrintMailboxDictionary.txt" />
+    <Content Include="sample_PrintMailBoxUsers.txt" />
     <None Include="App.config" />
     <Content Include="key.p12">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>

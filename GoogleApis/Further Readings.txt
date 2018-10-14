@@ -1,0 +1,17 @@
+﻿ - List of Google APIs:
+  https://developers.google.com/api-client-library/dotnet/apis/
+
+ - Admin Directory for .NET homepage:
+  https://developers.google.com/api-client-library/dotnet/apis/admin/directory_v1
+
+ - Admin Directory: Manage Users homepage reference and examples:
+  https://developers.google.com/admin-sdk/directory/v1/guides/manage-users
+
+ - Admin Directory: Users Reference:
+  https://developers.google.com/admin-sdk/directory/v1/reference/users
+
+ - G Suite External Contacts: Developers's Guide:
+  https://developers.google.com/admin-sdk/domain-shared-contacts/?csw=1
+
+ - Google Search: query for external contacts
+  https://www.google.com.pk/search?newwindow=1&safe=off&ei=oEfDW7yIEcqMlwTcg4fIDg&q=creating+external+contacts+in+g+suite&oq=creating+external+contact+in+g+s&gs_l=psy-ab.3.0.33i22i29i30k1.267303.278835.0.280442.40.29.1.0.0.0.573.4285.3-4j4j2.10.0....0...1c.1.64.psy-ab..30.10.3709...0j0i22i30k1j33i160k1.0.XBVyQlOnQH8
