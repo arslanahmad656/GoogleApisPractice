@@ -77,6 +77,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="sample output.txt" />
     <None Include="App.config" />
     <Content Include="key.p12">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
