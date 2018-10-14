@@ -10,6 +10,7 @@ namespace GoogleApis
     {
         static void Main(string[] args)
         {
+            FetchingUsers.Run();
         }
     }
 }
